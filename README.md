@@ -112,7 +112,7 @@ Internal - Work Environment    120
 
  
 - What kind of correlation has the IT support satisfaction with the work experience satisfaction?
-
+A./
 	        Count Q3	Count Q9
 Count Q3	1.000000	0.979789
 Count Q9	0.979789	1.000000
